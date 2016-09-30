@@ -1,0 +1,20 @@
+
+Question 1:	A “System“ consists of “Components“ and “Functions“. How would you describe a 		“Component” and a “Function” of a “System” in the “Automotive World”? Is a 			“System” okay 	if all its “Components” and “Functions” are okay?
+		A “Component” is a physical part of a “System”. The “Function” is the task of that 		component. For example, a brake of a car represents the “Component” and to brake 		the car is its “Function”.
+Question 2:	What stands the abbreviation “EDC” for? What´s the purpose of this “System”?
+		“EDC” stands for “Electronic Diesel Control”. The purpose of the “EDC” is to collect 		sensor datas, process these signals and to control the engine.
+Question 3:	Name and briefly describe the main 4 engineering “EDC”-fields!
+		System Development		has to integrate the EDC into the whole car system
+		Application (calibration)	creates the right parameters (lookup tables, 							constants and variables) to control the engine in the 						best possible way
+		Components (hardware)	is there to design the components electrical and 						mechanical parts
+Components (software)		has to program the software of a components micro 					processor
+Question 4:	The “EDC” is an electronic “System”. Why we use nowadays such an electronic 			“System” and not a mechanical “System” in the “Automotive World”?
+With rising complexity the effort for a mechanical Systems gets really big. Nowadays we can design safe and redundant electric systems that can be handled also if they are very complex in functionality.
+Question 5:	What are the differences in the illustrations of the “p-V-diagram” and “p-a-diagram”?
+The p-V-diagram illustrates the pressure over volume. You can see and calculate the work of the cylinder.
+With a p-a-diagram you can see the emphasis of the combustion.
+Question 6:	Why is the “specific fuel consumption” of diesel engines smaller than the “specific fuel consumption” of gasoline engines?
+	Cause a diesel engine has a better thermal utilization of the combustion with higher pressure and temperature gradients. Diesel fuel also has a higher energy density than gasoline fuel, due to this there is more carbon for the combustion.
+QL1a		Intro + System-Overview EDC (I)
+Chandra Sekar Venkataramani, Tan Loc Nguyen, Markus Lindner
+

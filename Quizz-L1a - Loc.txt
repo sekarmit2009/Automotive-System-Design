@@ -1,0 +1,20 @@
+Questions:
+1. A "System" consists of "Components" and "Functions". How would you describe a "Component" and a "Function" of a "System" in the "Automotive World"? Is a "System" ok if all its "Components" and "Functions" are okay?
+Each system consists of components and functions. The components are the physical building blocks of the system, and the functions are aims/requirements which these components produce when they are working correctly and smoothly in the overall system.
+The system is not ok if its components and functions are ok. The important things are: are the components connected and assembled correctly? and, are all the functions of the system fulfills all the features of the system? If not, then eventhough the components and functions are all ok, the system cannot work as required and so it is not ok.
+
+2. What stands the abbreviation "EDC" for? What's the purpose of this "System"?
+EDC stands for Electronic Diesel Control System. the purpose of this system is to electrically control the operation of a diesel engine, such as injection time, speed of the camshaft, air flow, so on and so forth.
+ 
+3. Name and briefly describe the main 4 engineering "EDC"-fields?
+System development, Components (Hardware), Components (Software), and Application (Calibration)
+
+4. The "EDC" is an electronic "System". Why we use nowadays such an electronic "System" and not a mechanical "System" in the "Automotive World"?
+Because as the system grows more and more complex, the cost to add new function to the system mechanically becomes larger and larger, and at one point the cost is even larger than to add the same function electrically. We are in present having this situation where the cost of adding one new function mechanically is larger than the cost to add that function electronically, so electrical system is replacing mechanical system gradually.
+
+5. What are the differences in the illustrations of the "P-V-diagram" and the "p-a-diagram"?
+The fundamental difference is that the horizontal axis of the "p-V-diagram" is in Volume, and the the "p-a-diagram" is in angle (4-stroke cycles). 
+With that difference, the "p-V-diagram" describe the change of pressure with respect to the volume of the cylinder during 4 cycles, and the "p-a-diagram" describe the change of pressure with respect to the angle of the crankshaft.
+
+6. Why is the "specific fuel consumption" of the diesel engines smaller the the "specific fuel consumption" of gasoline engines?
+Because, if we look at the equation for calculating the specific fuel consumption be = 100%/(n*Hi). n is the effective degree of efficiency and Hi is the heat of combustion. With diesel engines, ni is 43% to 53% > 30% of gasoline engines, and Hi of diesel engine is higher than gasoline engine. In combination, the specific fuel consumption of diesel engine will give smaller value than gasoline engine.

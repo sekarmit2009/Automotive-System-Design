@@ -1,0 +1,50 @@
+
+1.	A “System” consists of “Components” and “Functions”. How would you describe a “Component” and a “Function” of a “System” in the “Automotive World”? Is a “System” okay if all its “Components” and “Functions are okay?
+Answer:  
+a)	
+i)	Component – A physical element used as part of a system (Eg. Injector)
+ii)	Function – The task performed by one or more components together (Eg. Injection)
+b) No. A System can still be faulty even if all the Components and Functions are okay. The interaction between individual components and functions can lead to errors/failures of the system
+
+2.	What stands the abbreviation “EDC” for? What’s the purpose of this “System”?
+Answer:  
+-	EDC: “Electronic Diesel Control”. 
+-	Purpose: To meter, distribute and disperse the fuel supplied to the Engine (based on several input parameters (Ex. Throttle input, Engine speed, etc.) 
+
+3.	Name and briefly describe the main 4 engineering “EDC” fields
+Answer:  
+The four main engineering EDC fields are 
+i)	System Development
+ii)	Components (Hardware)
+iii)	Components (Software)
+iv)	Application (Calibration)
+
+4.	The “EDC” is an electronic System. Why we use nowadays such an electronic system and not a mechanical system in the automotive world?
+Answer:  
+-	Increasingly stringent emission regulations and fuel economy requirements 
+-	So, constant need to improve the Diesel fuel supply system. 
+-	Mechanical systems - inherent limitations in speed, precision and mechanical dependency, were not suitable to meet these requirements. 
+-	So, the “Electronic Diesel Control” systems were introduced. 
+-	With EDC system, possible to 
+o	achieve improved fuel atomization
+o	respond faster to the dynamic operating conditions of Engine 
+o	achieve the desired state with higher precision. 
+o	Overall effect, this leads to reduced fuel consumption and vehicle emissions.
+-	Also, in a Mechanical system the exponential efforts for higher functionality. 
+-	However, Electronic systems proportional efforts for more functions
+
+
+
+
+5.	What are the differences in the illustrations of the “p-V-diagram” and the “p-a-diagram”?
+Answer:  
+-	p-V diagram – cylinder pressure & valve events over stroke volume 
+o	Represents WM (Indicated work) and WG (Gas Exchange work)
+-	p-a-diagram – cylinder pressure & valve events shown over crank angle (2 revs of crankshaft)
+
+6.	Why is the specific fuel consumption of diesel engines smaller than the specific fuel consumption of gasoline engines?
+Answer:  
+-	Diesel - Nominal operating range - ?>1 (lean mixture) most cases
+-	Gasoline – Nominal operating range – around stoichiometric ?=1 bandwidth (0.7 to 1.3)
+-	Also, Efficiency of a diesel engine (40% or more) > gasoline engine (~30%)
+-	So, the specific fuel consumption of Diesel < Specific fuel consumption of Gasoline
